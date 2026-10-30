@@ -1,2 +1,0 @@
-# my-apps
-ka
